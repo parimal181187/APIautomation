@@ -22,7 +22,7 @@ Go to file Apptest.java ,run as Maven test.
 
 **OR**
 
-testNG route: Go to file Apptest.java ,run as testNG test.Post this refresh the project and you will be able to see a file generated in test-output folder with name emailable-report.html.Open this and you should be able to see the pass result.
+**testNG route:** Go to file Apptest.java ,run as testNG test.Post this refresh the project and you will be able to see a file generated in test-output folder with name emailable-report.html.Open this and you should be able to see the pass result.
 
 Thank You.
 
