@@ -1,7 +1,7 @@
 # APIautomation
-Coding Language- Java with TestNG
-POM Tool-Maven
-API Testing-Rest Assured Library
+->Coding Language- Java with TestNG
+->POM Tool-Maven
+->API Testing-Rest Assured Library
 
 1.Test File->This is having test classes along with test method with @test annotation which contains logic as well as assertion for verification.I have used a for loop to traverse through records.
 [Reference Path-mavenproject/src/test/java/com/apitest/mavenproject/AppTest.java]
